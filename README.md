@@ -1,2 +1,2 @@
 # Xcrypt-Hydra
-An Encryption Code
+An Perfected Encryption Code for AI communication 
